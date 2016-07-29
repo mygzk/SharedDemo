@@ -1,2 +1,2 @@
-# SharedDemo
-share to 微信 qq 微博
+# EditDemo
+实现仿微信朋友圈 点击评论按钮 软键盘弹出后 底部输入框在评论内容底部
