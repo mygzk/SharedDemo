@@ -1,4 +1,4 @@
-package com.example.editdemo;
+package com.example.sharedemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
